@@ -1,4 +1,4 @@
-## ** README.md: Gerador de Classes de RPG - Imersão Dev com Google Gemini**
+##  README.md: Gerador de Classes de RPG - Imersão Dev com Google Gemini
 
 ### **Sobre o Projeto**
 
