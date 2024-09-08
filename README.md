@@ -21,10 +21,12 @@ Com esse gerador, você pode gerar classes de RPG aleatórias com um simples cli
 2. **Abra o arquivo index.html:** Abra o arquivo `index.html` em seu navegador.
 3. **Clique no botão:** Comece a gerar classes aleatórias e divirta-se criando seus personagens!
 
+### **Vercel**
+Link: https://gerador-de-classes-de-rpg.vercel.app/
+
 ### **Personalizando**
 Quer personalizar o gerador? Sinta-se à vontade para:
 
 * **Adicionar novas classes:** Edite o arquivo `dados.js` para incluir novas classes com suas respectivas informações.
 * **Customizar a aparência:** Modifique o arquivo `style.css` para alterar as cores, fontes e layout da página.
 * **Adicionar mais funcionalidades:** Explore o JavaScript para adicionar novas funcionalidades, ou gere múltiplas classes ao mesmo tempo.
-* **Link Vercel:** https://gerador-de-classes-de-rpg.vercel.app/
