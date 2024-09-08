@@ -88,5 +88,145 @@ let classesRPG = [
         nome: "Místico",
         descricao: "O místico é um estudioso dos mistérios e do oculto, capaz de desvendar segredos e utilizar poderes sobrenaturais.",
         habilidades: "Ocultismo, Desvendar Segredos, Poderes Sobrenaturais",
+    },
+    {
+        nome: "Samurai",
+        descricao: "O samurai é um guerreiro honrado que segue um código de conduta rigoroso, especializado no uso de espadas e no combate disciplinado.",
+        habilidades: "Espadas, Disciplina, Honra",
+    },
+    {
+        nome: "Alquimista",
+        descricao: "O alquimista utiliza seu conhecimento de poções e transmutações para criar substâncias e artefatos mágicos.",
+        habilidades: "Poções, Transmutação, Química Arcana",
+    },
+    {
+        nome: "Pistoleiro",
+        descricao: "O pistoleiro é um mestre do combate à distância, usando pistolas e outras armas de fogo com precisão mortal.",
+        habilidades: "Armas de Fogo, Precisão, Reflexos Rápidos",
+    },
+    {
+        nome: "Caçador de Demônios",
+        descricao: "Especializado em eliminar criaturas infernais, o caçador de demônios usa habilidades sagradas e profanas para derrotar forças do mal.",
+        habilidades: "Exorcismo, Agilidade, Armas Anti-demoníacas",
+    },
+    {
+        nome: "Pirata",
+        descricao: "O pirata é um aventureiro dos mares, capaz de lutar tanto em terra quanto no mar, com habilidades de navegação e combate.",
+        habilidades: "Navegação, Espadas, Táticas Navais",
+    },
+    {
+        nome: "Berseker",
+        descricao: "O berseker entra em um estado de fúria incontrolável durante a batalha, atacando com força bruta e descuido próprio.",
+        habilidades: "Fúria, Força, Resistência ao Medo",
+    },
+    {
+        nome: "Ilusionista",
+        descricao: "O ilusionista usa magia para criar ilusões visuais e auditivas, confundindo e enganando seus inimigos.",
+        habilidades: "Ilusões, Manipulação Mental, Magia de Engano",
+    },
+    {
+        nome: "Mecânico",
+        descricao: "O mecânico é especialista em criar e consertar máquinas, utilizando sua expertise para construir engenhocas em combate.",
+        habilidades: "Engenharia, Robótica, Reparos Rápidos",
+    },
+    {
+        nome: "Sentinela",
+        descricao: "O sentinela é um defensor implacável, treinado para guardar locais sagrados e proteger seus aliados com uma defesa impenetrável.",
+        habilidades: "Defesa, Vigilância, Proteção de Aliados",
+    },
+    {
+        nome: "Vampiro",
+        descricao: "O vampiro utiliza sua imortalidade e habilidades sombrias para drenar a vida de seus inimigos e controlar a escuridão.",
+        habilidades: "Drenar Vida, Força Sobrenatural, Manipulação das Sombras",
+    },
+    {
+        nome: "Elementalista",
+        descricao: "O elementalista canaliza o poder dos quatro elementos, utilizando fogo, água, terra e ar para devastar seus inimigos.",
+        habilidades: "Controle Elemental, Invocação de Elementos, Magia Natural",
+    },
+    {
+        nome: "Ninja",
+        descricao: "O ninja é um guerreiro ágil e silencioso, especialista em assassinatos furtivos e técnicas de combate dissimuladas.",
+        habilidades: "Furtividade, Agilidade, Armas Ninja",
+    },
+    {
+        nome: "Psíquico",
+        descricao: "O psíquico usa poderes mentais para manipular objetos e pessoas à distância, além de ler mentes e prever movimentos inimigos.",
+        habilidades: "Telecinese, Leitura Mental, Precognição",
+    },
+    {
+        nome: "Corsário",
+        descricao: "O corsário é um pirata sancionado pelo governo, lutando por riquezas e glória em batalhas navais.",
+        habilidades: "Combate Naval, Espadas, Intimidação",
+    },
+    {
+        nome: "Guarda Florestal",
+        descricao: "O guarda florestal protege as fronteiras naturais, utilizando suas habilidades em rastreamento e conhecimento da fauna e flora.",
+        habilidades: "Rastreamento, Conhecimento de Animais, Armas Leves",
+    },
+    {
+        nome: "Taverneiro",
+        descricao: "O taverneiro usa suas habilidades de manipulação e rede de contatos para influenciar acontecimentos e obter vantagens estratégicas.",
+        habilidades: "Manipulação, Negociação, Liderança Comunitária",
+    },
+    {
+        nome: "Arcanista",
+        descricao: "O arcanista estuda as profundezas da magia arcana para realizar rituais complexos e desvendar segredos universais.",
+        habilidades: "Rituais Arcanos, Pesquisa Mágica, Conjuração Poderosa",
+    },
+    {
+        nome: "Templário",
+        descricao: "O templário é um defensor sagrado da fé, combinando habilidades de combate e proteção divina.",
+        habilidades: "Força Divina, Defesa, Magia Sagrada",
+    },
+    {
+        nome: "Mestre de Feras",
+        descricao: "O mestre de feras comanda animais selvagens em combate, utilizando suas criaturas para atacar e defender.",
+        habilidades: "Domínio Animal, Conexão com a Natureza, Combate com Feras",
+    },
+    {
+        nome: "Artífice",
+        descricao: "O artífice é um inventor que utiliza materiais mágicos e mecânicos para criar equipamentos e artefatos poderosos.",
+        habilidades: "Invenção, Engenharia Mágica, Criação de Artefatos",
+    },
+    {
+        nome: "Domador de Dragões",
+        descricao: "O domador de dragões é uma elite que treina e monta dragões para o combate, tornando-se uma força destrutiva nos céus.",
+        habilidades: "Montaria de Dragões, Controle de Feras, Combate Aéreo",
+    },
+    {
+        nome: "Espadachim",
+        descricao: "O espadachim é um duelista habilidoso com lâminas, usando velocidade e precisão em combate.",
+        habilidades: "Espadas, Agilidade, Reflexos",
+    },
+    {
+        nome: "Andarilho",
+        descricao: "O andarilho viaja pelo mundo, aprendendo diferentes culturas e técnicas de combate e sobrevivência.",
+        habilidades: "Sobrevivência, Conhecimento Cultural, Adaptabilidade",
+    },
+    {
+        nome: "Necromante das Sombras",
+        descricao: "Um necromante especializado em controlar sombras e invocar criaturas sombrias para lutar por ele.",
+        habilidades: "Magia Sombria, Invocação de Sombras, Controle de Mortos-vivos",
+    },
+    {
+        nome: "Caçador de Recompensas",
+        descricao: "O caçador de recompensas rastreia e captura seus alvos com precisão e habilidade mortais.",
+        habilidades: "Rastreamento, Armas de Fogo, Combate à Distância",
+    },
+    {
+        nome: "Sacerdote",
+        descricao: "O sacerdote utiliza sua fé para curar aliados e lançar bênçãos que protegem contra o mal.",
+        habilidades: "Cura, Bênçãos, Proteção Divina",
+    },
+    {
+        nome: "Ciborgue",
+        descricao: "O ciborgue é uma fusão de ser humano e máquina, utilizando tecnologia avançada para melhorar suas capacidades físicas e mentais.",
+        habilidades: "Tecnologia Avançada, Força Melhorada, Resistência",
+    },
+    {
+        nome: "Fantasma",
+        descricao: "O fantasma pode se tornar intangível e atravessar objetos, além de possuir uma forte conexão com o plano espiritual.",
+        habilidades: "Intangibilidade, Assombração, Magia Espiritual",
     }
 ];
