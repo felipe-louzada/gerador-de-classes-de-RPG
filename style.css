@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp:wght@400;700&display=swap');
+
+body {
+    font-family: "MedievalSharp", cursive;
+    background-color: #2F1B1A;
+    color: #e2d7be;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #d8a55d;
+    text-align: center;
+    letter-spacing: 0.3rem;
+    margin-bottom: 1.5rem;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2.5rem;
+}
+
+section input {
+    width: 28rem;
+    border: 2px solid #bdaf90;
+    padding: 1rem;
+    border-radius: 0.8rem;
+    margin-bottom: 1rem;
+    color: #dfd2b5;
+    font-size: 1rem;
+    background-color: #4E3A2C;
+    box-sizing: border-box;
+    transition: border-color 0.3s;
+}
+
+section input:focus {
+    border-color: #D4A25C;
+    outline: none;
+}
+
+section button {
+    padding: 0.8rem 1.4rem;
+    border: none;
+    border-radius: 0.6rem;
+    background-color: #6D4F3E;
+    color: #E0D4B8;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    font-weight: 700;
+}
+
+section button:hover {
+    background-color: #4A3A2A;
+    transform: scale(1.05);
+}
+
+.resultado {
+    width: 50rem;
+    height: 40vh;
+    overflow-y: auto;
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 0.6rem;
+    background-color: #3F2B1F;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+}
+
+.item-resultado {
+    background: #4E3A2C;
+    border: 1px solid #BDAF8F;
+    border-radius: 0.6rem;
+    padding: 1rem;
+    margin-bottom: 1.2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.item-resultado h2 {
+    font-size: 1.6rem;
+    color: #D4A25C;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+.descricao-meta {
+    color: #E0D4B8;
+    margin: 0.5rem 0;
+}
+
+footer {
+    background-color: #4E3A2C;
+    color: #E0D4B8;
+    text-align: center;
+    padding: 1rem;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    font-size: 0.9rem;
+    border-top: 1px solid #D4A25C;
+}
